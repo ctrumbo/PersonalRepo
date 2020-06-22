@@ -3,5 +3,15 @@
 		"eventName": "Mulch Sale!",
 		"eventDesc": "25% off all red dyed mulch from 6/20/2020 to 7/1/2020!",
 		"date": "6/19/2020"
+	},
+	{
+		"eventName": "Happy Fathers Day!",
+		"eventDesc": "Extending you a happy fathers day from your local mulchers!",
+		"date": "6/21/2020"
+	},
+	{
+		"eventName": "Corona Virus Precautions",
+		"eventDesc": "To help prevent the spread of covid, all of our employees will wear masks or face shields as well as gloves.",
+		"date": "4/4/2020"
 	}
 ]
